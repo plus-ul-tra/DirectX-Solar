@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="InputManager" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAgQBAARQAQAAAAAAAAgAIAAAAAEAQAAiIIEAQAA=</HashCode>
+      <FileName>InputManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainApp" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAACAAQAAAQAAQAAAAAAAAAAAgAAAAAIAAAAAABI=</HashCode>
+      <FileName>MainApp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BoxObject" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAQAQIAYAAEgAAABBAAAAAEBAAAiESgEQgAAoAAEA=</HashCode>
+      <FileName>HierarchicalTransformTestScene.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DefaultTestScene" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABBAAAAAgAgARIAAIBAAAAAEAAgAAAAAAACAQCA=</HashCode>
+      <FileName>DefaultScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HierarchicalTransformTestScene">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAAAAQFQAAkAQAAEgBAAAAAAAAgEAAAAAEAAwAA=</HashCode>
+      <FileName>HierarchicalTransformTestScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlyForTestScene" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABCAAAQmAQAAAAAAAABAAAAgAAAAAEEAAQAA=</HashCode>
+      <FileName>OnlyForTestScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Camera2DBase" Collapsed="true">
+    <Position X="1" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAEAAKAAAAAAAAAAAAAAACAAAgAAAAgBAAAAAAA=</HashCode>
+      <FileName>Camera2D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="D2DCamera2D" Collapsed="true">
+    <Position X="2.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Camera2D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityCamera" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAASCICAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Camera2D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SolarSystemRenderer" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SolarSystemRenderer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>GameObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TransformPracticeScene" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAhAQAAAABAAAAAAAEgAAAAAAAAAQAA=</HashCode>
+      <FileName>TransformPracticeScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DX::com_exception" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAACAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pch.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="D2DTM::Transform" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAFCCAlCIAQgAAIAQgEAIAJgoAIEAEAgcAAIA=</HashCode>
+      <FileName>D2DTransform.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myspace::D2DRenderer" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABCAJACQAAAIISAAAQAAJAAAkAAAABBABEQAQBUAACg=</HashCode>
+      <FileName>D2DRender.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="MouseState" Collapsed="true">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAQAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InputManager.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="KeyEdge" Collapsed="true">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InputManager.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="D2DTM::PivotPreset" Collapsed="true">
+    <Position X="7.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAIAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAIAEA=</HashCode>
+      <FileName>D2DTransform.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
